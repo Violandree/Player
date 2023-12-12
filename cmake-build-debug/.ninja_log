@@ -1,0 +1,8 @@
+# ninja log v5
+27	1004	7239901039663885	CMakeFiles/ArcadePlayers.dir/search.cc.obj	def5b4de3116faba
+31	702	7239901885220418	CMakeFiles/ArcadePlayers.dir/RandomPlayerGenerator.cc.obj	cbc5ff0fc8b96817
+52	927	7236670854749712	CMakeFiles/ArcadePlayers.dir/timing.cc.obj	aa220a24639a621e
+46	692	7239901885130357	CMakeFiles/ArcadePlayers.dir/Player.cc.obj	dcecad4f64ccf261
+46	1370	7239901043310760	CMakeFiles/ArcadePlayers.dir/main.cc.obj	1a8c75f6c9cd49e7
+1	514	7240748557198952	build.ninja	8de40ad14d60487b
+1370	1799	7239901047330889	ArcadePlayers.exe	2acc2364c4bb462c
